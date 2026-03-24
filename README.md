@@ -21,3 +21,5 @@ This project is a Python-based Smart Health Monitoring System that simulates hea
 * Add real sensor integration
 * Display data on LCD
 * IoT-based remote monitoring
+  ## Output
+![GUI Output](gui_output.png)
